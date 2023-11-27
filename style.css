@@ -199,6 +199,10 @@ body{
     box-shadow: #05471133 -5px 20px 10px;
 }
 
+.container:hover .card .logo .circle1{
+    transform: translate3d(0, 0, 40px);
+}
+
 .container:hover .card .logo .circle2{
     transform: translate3d(0, 0, 60px);
 }
